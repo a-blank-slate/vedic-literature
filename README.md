@@ -10,4 +10,3 @@ HI - `https://vedic-literature.netlify.app/hanuman-chalisa/hi.json`
 
 ## License
 All code is licenced under the [MIT license](LICENSE).
-{"mode":"full","isActive":false}
